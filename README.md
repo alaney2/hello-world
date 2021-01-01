@@ -1,4 +1,4 @@
 # hello-world
-Hello, WORLD!
+Hello, world!
 
-I'm getting familiar with GitHub.
+Getting familiar with GitHub.
